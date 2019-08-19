@@ -1,4 +1,4 @@
 FROM java:8
-EXPOSE 9092
+EXPOSE 9093
 ADD /target/CacheManager-1.0.0.jar CacheManager-1.0.0.jar
 ENTRYPOINT ["java", "-jar", "CacheManager-1.0.0.jar"]
