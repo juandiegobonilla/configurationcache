@@ -1,3 +1,6 @@
-/home/jdiego/Documentos/workspace/CacheManager/src/main/java/co/sophos/cache/CacheManagerApplication.java
-/home/jdiego/Documentos/workspace/CacheManager/src/main/java/co/sophos/cache/repository/ConfigurationRepository.java
-/home/jdiego/Documentos/workspace/CacheManager/src/main/java/co/sophos/cache/entities/Configuration.java
+/home/jdiego/git/configurationcache/src/main/java/co/sophos/cache/CacheManagerApplication.java
+/home/jdiego/git/configurationcache/src/main/java/co/sophos/cache/entities/ConfigurationResponse.java
+/home/jdiego/git/configurationcache/src/main/java/co/sophos/cache/repository/ConfigurationRepository.java
+/home/jdiego/git/configurationcache/src/main/java/co/sophos/cache/controller/ConfigurationCacheController.java
+/home/jdiego/git/configurationcache/src/main/java/co/sophos/cache/entities/Status.java
+/home/jdiego/git/configurationcache/src/main/java/co/sophos/cache/entities/Configuration.java
