@@ -1,3 +1,4 @@
+/home/jdiego/git/configurationcache/src/main/java/co/sophos/cache/repository/RedisJavaConfiguration.java
 /home/jdiego/git/configurationcache/src/main/java/co/sophos/cache/CacheManagerApplication.java
 /home/jdiego/git/configurationcache/src/main/java/co/sophos/cache/entities/ConfigurationResponse.java
 /home/jdiego/git/configurationcache/src/main/java/co/sophos/cache/repository/ConfigurationRepository.java
